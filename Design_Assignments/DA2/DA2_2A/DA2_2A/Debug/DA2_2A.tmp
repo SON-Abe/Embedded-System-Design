@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\Debug\DA2_2A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_2A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_2A.map</FILE>
+  <FILE>DA2_2A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\main.asm</FILE><LINE>11</LINE></main>
+  <loop><FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\main.asm</FILE><LINE>16</LINE></loop>
+  <delay><FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\main.asm</FILE><LINE>25</LINE></delay>
+  <L1><FILE>C:\Users\abrah\OneDrive\Desktop\General\Uni\2024\CPE 301\Design_Assignments\Design_Assignments\DA2\DA2_2A\DA2_2A\main.asm</FILE><LINE>29</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
