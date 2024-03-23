@@ -14,7 +14,7 @@ int main(void)
 	DDRB |= 0X20;                        // SET PB5 AS AN OUTPUT
 	TCCR0A = 0X00;                        // NORMAL OPERATION
 	TCNT0 = 231;                        // TIMER COUNTER 0 SET TO 0 ->  231
-	TCCR0B |= 0X03;                        // PRSCALE 64
+	TCCR0B |= 0X03;                        // PRESCALE 64
 	while(1)
 	{
 		while((TIFR0 & 0X01) == 0);        // WAIT FOR THE OVERFLOW EVENT
