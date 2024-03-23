@@ -7,7 +7,6 @@ ISR(TIMER1_COMPA_vect)                // TIMER1 ISR CTC MODE
 	PORTB ^= 0X10;                    // TOGGLE  PORTB4
 }
 
-
 int main(void)
 {
 	DDRB |= 0x10;                    // PB4 AS OUTPUT
