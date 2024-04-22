@@ -51,7 +51,7 @@ void usart_print(char* ChArrPtr)
 	}
 }
 
-ISR (TIMER1_OVF_vect)
+ISR (ADC_vect)
 {
 	ADCSRA |= (1 << ADSC);	           		//START ADC CONVERSION
 	while ((ADCSRA & (1 << ADIF)) == 0); 	//WAIT TILL CONVERSION FINSHES
