@@ -1,0 +1,11 @@
+ERC report (2024-05-08T19:24:01-0700, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol 'MC74HC595AD' has been modified in library 'MC74HC595AD'
+    ; warning (excluded)
+    @(1600.00 mils, 4200.00 mils): Symbol U3 [MC74HC595AD]
+[lib_symbol_issues]: Symbol 'MC74HC595AD' has been modified in library 'MC74HC595AD'
+    ; warning (excluded)
+    @(6100.00 mils, 4600.00 mils): Symbol U4 [MC74HC595AD]
+
+ ** ERC messages: 2  Errors 0  Warnings 2
